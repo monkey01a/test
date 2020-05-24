@@ -1,0 +1,91 @@
+
+主机名:           DESKTOP-6UFLV4P
+OS 名称:          Microsoft Windows 10 企业版 LTSC
+OS 版本:          10.0.17763 暂缺 Build 17763
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构件类型:      Multiprocessor Free
+注册的所有人:     admin
+注册的组织:       
+产品 ID:          00425-00000-00002-AA674
+初始安装日期:     2019/6/7, 12:55:01
+系统启动时间:     2020/5/22, 19:32:45
+系统制造商:       LENOVO
+系统型号:         20H5A01NCD
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2701 Mhz
+BIOS 版本:        LENOVO R0DET83W (1.83 ), 2017/6/9
+Windows 目录:     C:\Windows
+系统目录:         C:\Windows\system32
+启动设备:         \Device\HarddiskVolume4
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC+08:00) 北京，重庆，香港特别行政区，乌鲁木齐
+物理内存总量:     12,191 MB
+可用的物理内存:   9,513 MB
+虚拟内存: 最大值: 12,959 MB
+虚拟内存: 可用:   10,196 MB
+虚拟内存: 使用中: 2,763 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\DESKTOP-6UFLV4P
+修补程序:         安装了 16 个修补程序。
+                  [01]: KB4552924
+                  [02]: KB4465065
+                  [03]: KB4470788
+                  [04]: KB4487038
+                  [05]: KB4499728
+                  [06]: KB4504369
+                  [07]: KB4509095
+                  [08]: KB4512577
+                  [09]: KB4512937
+                  [10]: KB4521862
+                  [11]: KB4523204
+                  [12]: KB4524244
+                  [13]: KB4537759
+                  [14]: KB4539571
+                  [15]: KB4549947
+                  [16]: KB4551853
+网卡:             安装了 7 个 NIC。
+                  [01]: Realtek PCIe GbE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [02]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.0.1
+                      IP 地址
+                        [01]: 192.168.0.104
+                        [02]: fe80::3103:8cfc:5086:3e90
+                  [03]: Bluetooth Device (Personal Area Network)
+                      连接名:      蓝牙网络连接
+                      状态:        媒体连接已中断
+                  [04]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.233.254
+                      IP 地址
+                        [01]: 192.168.233.1
+                        [02]: fe80::fde2:aca6:adb8:89bb
+                  [05]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.135.254
+                      IP 地址
+                        [01]: 192.168.135.1
+                        [02]: fe80::f18d:7a39:46ab:3846
+                  [06]: Microsoft KM-TEST Loopback Adapter
+                      连接名:      Npcap Loopback Adapter
+                      启用 DHCP:   是
+                      DHCP 服务器: 255.255.255.255
+                      IP 地址
+                        [01]: 169.254.149.253
+                        [02]: fe80::f861:943:fde5:95fd
+                  [07]: TAP-Windows Adapter V9
+                      连接名:      SSTAP 1
+                      状态:        媒体连接已中断
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
